@@ -18,5 +18,4 @@ public class EchoController {
         return new ResponseEntity("Alou", HttpStatus.OK);
     }
 
-
 }
