@@ -6,7 +6,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import javax.validation.constraints.NotBlank;
+
 import java.util.UUID;
 
 @AllArgsConstructor
@@ -18,9 +18,9 @@ public class UserDto {
 
     private UUID id;
 
-    @NotBlank
+
     private String userName;
 
-    @NotBlank
+
     private String password;
 }
