@@ -1,4 +1,4 @@
-package com.echo.echoservice.services;
+package com.echo.echoservice.services.external;
 
 
 import com.echo.echoservice.entities.dto.DollarCotationDTO;

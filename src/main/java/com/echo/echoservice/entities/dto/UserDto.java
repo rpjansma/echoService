@@ -17,10 +17,6 @@ public class UserDto {
 
 
     private UUID id;
-
-
     private String userName;
-
-
     private String password;
 }
