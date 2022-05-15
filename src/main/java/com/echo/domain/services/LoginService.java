@@ -1,6 +1,6 @@
-package com.echo.echoservice.services;
+package com.echo.domain.services;
 
-import com.echo.echoservice.entities.dto.UserDto;
+import com.echo.domain.entities.dto.UserDto;
 
 public interface LoginService {
 

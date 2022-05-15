@@ -1,7 +1,7 @@
-package com.echo.echoservice.services.impl;
+package com.echo.domain.services.impl;
 
-import com.echo.echoservice.entities.dto.UserDto;
-import com.echo.echoservice.services.LoginService;
+import com.echo.domain.entities.dto.UserDto;
+import com.echo.domain.services.LoginService;
 
 public class LoginServiceImpl implements LoginService {
 
