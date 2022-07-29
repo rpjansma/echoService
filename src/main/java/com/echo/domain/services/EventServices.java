@@ -1,8 +1,8 @@
-package com.echo.echoservice.services;
+package com.echo.domain.services;
 
-import com.echo.echoservice.entities.Event;
-import com.echo.echoservice.entities.dto.EventDTO;
-import com.echo.echoservice.repository.EventRepository;
+import com.echo.domain.entities.Event;
+import com.echo.domain.entities.dto.EventDTO;
+import com.echo.infrastructure.database.repository.EventRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

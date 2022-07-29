@@ -1,4 +1,4 @@
-package com.echo.echoservice.entities.dto;
+package com.echo.domain.entities.dto;
 
 import org.springframework.format.annotation.DateTimeFormat;
 

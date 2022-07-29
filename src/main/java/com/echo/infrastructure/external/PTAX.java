@@ -1,7 +1,7 @@
-package com.echo.echoservice.services.external;
+package com.echo.infrastructure.external;
 
 
-import com.echo.echoservice.entities.dto.DollarCotationDTO;
+import com.echo.domain.entities.dto.DollarCotationDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

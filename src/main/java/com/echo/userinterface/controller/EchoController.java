@@ -1,8 +1,8 @@
-package com.echo.echoservice.interfaceadapter.controller;
+package com.echo.userinterface.controller;
 
 
-import com.echo.echoservice.entities.dto.DollarCotationDTO;
-import com.echo.echoservice.services.external.PTAX;
+import com.echo.domain.entities.dto.DollarCotationDTO;
+import com.echo.infrastructure.external.PTAX;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

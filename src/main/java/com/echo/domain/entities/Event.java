@@ -1,4 +1,4 @@
-package com.echo.echoservice.entities;
+package com.echo.domain.entities;
 
 import com.sun.istack.NotNull;
 import lombok.*;

@@ -1,9 +1,8 @@
-package com.echo.echoservice.interfaceadapter.controller;
+package com.echo.userinterface.controller;
 
 
-import com.echo.echoservice.entities.Event;
-import com.echo.echoservice.entities.dto.EventDTO;
-import com.echo.echoservice.services.EventServices;
+import com.echo.domain.entities.dto.EventDTO;
+import com.echo.domain.services.EventServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
